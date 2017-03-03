@@ -1,0 +1,10 @@
+c:\users\joscha-pc\documents\visual studio 2013\Projects\Rule\Rule - Vampire\bin\Debug\Rule - Vampire.exe.config
+c:\users\joscha-pc\documents\visual studio 2013\Projects\Rule\Rule - Vampire\bin\Debug\Rule - Vampire.exe
+c:\users\joscha-pc\documents\visual studio 2013\Projects\Rule\Rule - Vampire\bin\Debug\Rule - Vampire.pdb
+c:\users\joscha-pc\documents\visual studio 2013\Projects\Rule\Rule - Vampire\obj\Debug\Rule - Vampire.csprojResolveAssemblyReference.cache
+c:\users\joscha-pc\documents\visual studio 2013\Projects\Rule\Rule - Vampire\obj\Debug\Rule___Vampire.Chats.resources
+c:\users\joscha-pc\documents\visual studio 2013\Projects\Rule\Rule - Vampire\obj\Debug\Rule___Vampire.Properties.Resources.resources
+c:\users\joscha-pc\documents\visual studio 2013\Projects\Rule\Rule - Vampire\obj\Debug\Rule - Vampire.csproj.GenerateResource.Cache
+c:\users\joscha-pc\documents\visual studio 2013\Projects\Rule\Rule - Vampire\obj\Debug\Rule - Vampire.exe
+c:\users\joscha-pc\documents\visual studio 2013\Projects\Rule\Rule - Vampire\obj\Debug\Rule - Vampire.pdb
+c:\users\joscha-pc\documents\visual studio 2013\Projects\Rule\Rule - Vampire\obj\Debug\Rule___Vampire.Chat.resources
